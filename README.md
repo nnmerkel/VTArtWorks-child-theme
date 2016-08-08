@@ -4,6 +4,7 @@ A backup of theme modifications for the VTArtWorks work sample
 ##Contents
 * footer.php
 * functions.php
+* header.php
 * styles.css
 
 ##A List of other changes and resources

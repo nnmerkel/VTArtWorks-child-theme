@@ -65,14 +65,14 @@ color: transparent;
 }
 
 @media screen and (min-width: 910px) {
-.search-form {
-float: right;
-}
+    .search-form {
+        float: right;
+    }
 
-#site-navigation {
-float: left;
-margin-right: 2em;
-}
+    #site-navigation {
+        float: left;
+        margin-right: 2em;
+    }
 }
 
 .search-form input[type="search"] {
@@ -83,6 +83,8 @@ padding-bottom: 0.35em;
 .search-form .search-submit:before {
 line-height: 1;
 }
+
+
 
 #primary.content-area {
 margin-top: 160px;
