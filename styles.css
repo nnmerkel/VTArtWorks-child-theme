@@ -114,6 +114,43 @@ padding: 10px;
 font-size: 0.75rem;
 }
 
+.max-height-image .sow-image-container {
+max-height: 180px;
+overflow: hidden;
+}
+
+.max-height-image-lg .sow-image-container {
+max-height: 240px;
+overflow: hidden;
+}
+
+.max-height-image .sow-image-container img {
+max-height: 100%;
+}
+
+.full-width-img img {
+width: 100%;
+}
+
+.tabs-project {
+width: 48%;
+margin-left: 1%;
+height: 300px;
+position: relative;
+display: inline-block;
+overflow: hidden;
+}
+
+.tabs-project .inlay {
+padding: 2em 1em;
+position: absolute;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.4);
+color: #fff;
+text-align: center;
+}
+
 .videoWrapper {
 position: relative;
 padding-bottom: 56.25%;
